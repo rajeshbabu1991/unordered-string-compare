@@ -1,4 +1,4 @@
-#Find a string(unordered) in a javascript array - ES6 and Unit Tests
+# Find a string(unordered) in a javascript array - ES6 and Unit Tests
 
 Javascript code to find a string in an array despite the order of the string
 
