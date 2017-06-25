@@ -1,3 +1,5 @@
+#Find a string(unordered) in a javascript array - ES6 and Unit Tests
+
 Javascript code to find a string in an array despite the order of the string
 
 This is a simple class to extract matching strings from an array regardless of the characters order.
